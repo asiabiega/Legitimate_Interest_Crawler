@@ -1,6 +1,5 @@
 # Legitimate_Interest_Crawler
-We created a web crawler to analyze 10,000 websites privacy notices from the Tranco top sites list4 which provides
-rankings that are oriented for research, and aims to be reproducible.
+This is a web crawler for scraping privacy notices from the 10,000 most popular websites according to the Tranco website ranking.
 
 
 # Setting up the repo
